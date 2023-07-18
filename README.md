@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owoeyemo
+- 👋 Hi, I’m @owoeyemo Michael
 - 👀 I’m interested in data science and front-end development
 - 🌱 I’m currently learning python, React, Vue, Angular
 - 💞️ I’m looking to collaborate on projects
